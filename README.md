@@ -32,7 +32,7 @@ Ejecutar --> Python manage.py
 1. [x] Crea
 1. [x] Lee
 1. [x] Actualiza
-1. [ ] Elimina
+1. [x] Elimina
 
 
 
